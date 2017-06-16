@@ -1,2 +1,2 @@
-## Existing University Courses
-- [Universities teaching CUDA](https://developer.nvidia.com/educators/existing-courses)
+## CUDA
+- Existing university courses [teaching CUDA](https://developer.nvidia.com/educators/existing-courses)
