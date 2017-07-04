@@ -4,6 +4,7 @@
 - follow this [guide](http://justanoobpassingby.blogspot.com/2017/01/install-cuda-toolkit-on-ubuntu.html) to fix the black screen problem: `nvidia-settings`-> PRIME PROFILES -> select NVIDIA or Intel
 - Verify You Have a CUDA-Capable GPU: `$ lspci | grep -i nvidia`
 - For a per thread code of matrix multiply, for `Tesla K40m, max threads per block is 1024`, if the threads per block > 1024 , the result matrix will be zero.
+- [cuPrintf](https://github.com/lijiansong/cuprintf_test) for log print on the device
 
 ### Stanford CME342
 - [CME342 - Parallel Methods in Numerical Analysis](http://adl.stanford.edu/cme342/Home.html)
