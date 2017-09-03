@@ -8,3 +8,6 @@
 
 ### Stanford CME342
 - [CME342 - Parallel Methods in Numerical Analysis](http://adl.stanford.edu/cme342/Home.html)
+
+### OpenCL
+- heterogeneous computing with opencl [slides](http://www.heterogeneouscompute.org/?page_id=7)
